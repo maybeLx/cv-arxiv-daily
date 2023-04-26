@@ -28,6 +28,16 @@
 |**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470](http://arxiv.org/abs/2304.11470)|null|
 |**2023-04-22**|**Dehazing-NeRF: Neural Radiance Fields from Hazy Images**|Tian Li et.al.|[2304.11448](http://arxiv.org/abs/2304.11448)|null|
 |**2023-04-22**|**NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation**|Baao Xie et.al.|[2304.11342](http://arxiv.org/abs/2304.11342)|null|
+|**2023-04-21**|**AutoNeRF: Training Implicit Scene Representations with Autonomous Agents**|Pierre Marza et.al.|[2304.11241](http://arxiv.org/abs/2304.11241)|null|
+|**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780](http://arxiv.org/abs/2304.10780)|null|
+|**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664](http://arxiv.org/abs/2304.10664)|null|
+|**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
+|**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532](http://arxiv.org/abs/2304.10532)|**[link](https://github.com/ethanweber/nerfbusters)**|
+|**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448](http://arxiv.org/abs/2304.10448)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
+|**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250](http://arxiv.org/abs/2304.10250)|**[link](https://github.com/wentxul/linr)**|
+|**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
+|**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
 
 <p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
@@ -45,6 +55,16 @@
 |**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060](http://arxiv.org/abs/2303.15060)|null|
 |**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|[2303.13022](http://arxiv.org/abs/2303.13022)|**[link](https://github.com/nexuslrf/ENVIDR)**|
 |**2023-03-22**|**NLOS-NeuS: Non-line-of-sight Neural Implicit Surface**|Yuki Fujimura et.al.|[2303.12280](http://arxiv.org/abs/2303.12280)|null|
+|**2023-03-21**|**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**|Xiaoxu Meng et.al.|[2303.12012](http://arxiv.org/abs/2303.12012)|**[link](https://github.com/xmeng525/NeAT)**|
+|**2023-03-20**|**Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection**|Wenhang Ge et.al.|[2303.10840](http://arxiv.org/abs/2303.10840)|null|
+|**2023-03-15**|**RICO: Regularizing the Unobservable for Indoor Compositional Reconstruction**|Zizhang Li et.al.|[2303.08605](http://arxiv.org/abs/2303.08605)|null|
+|**2023-03-27**|**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**|Anchit Gupta et.al.|[2303.05371](http://arxiv.org/abs/2303.05371)|null|
+|**2023-01-26**|**Robust One-Class Classification with Signed Distance Function using 1-Lipschitz Neural Networks**|Louis Bethune et.al.|[2303.01978](http://arxiv.org/abs/2303.01978)|**[link](https://github.com/algue-rythme/oneclassmetriclearning)**|
+|**2023-03-01**|**P $^2$ SDF for Neural Indoor Scene Reconstruction**|Jing Li et.al.|[2303.00236](http://arxiv.org/abs/2303.00236)|null|
+|**2023-02-28**|**Dynamic Multi-View Scene Reconstruction Using Neural Implicit Surface**|Decai Chen et.al.|[2303.00050](http://arxiv.org/abs/2303.00050)|null|
+|**2023-03-01**|**HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of Indoor Scenes with Iterative Intertwined Regularization**|Zhihao Liang et.al.|[2302.14340](http://arxiv.org/abs/2302.14340)|**[link](https://github.com/gorilla-lab-scut/helixsurf)**|
+|**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
+|**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
 <p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
