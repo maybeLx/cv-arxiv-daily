@@ -22,10 +22,11 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-   
     "NeRF":
         filters: ["NeRF"]
+    
     "MVS":
         filters: ["MVS", "Multi-View Stereo" , "Multi-view" ]
+    
     "Neural Surface":
         filters: ["Neural Surface", "Neural Implicit Surfaces" , "Multi-view Reconstruction"]
