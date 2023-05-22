@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588](http://arxiv.org/abs/2305.11588)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167](http://arxiv.org/abs/2305.11167)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031](http://arxiv.org/abs/2305.11031)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579](http://arxiv.org/abs/2305.10579)|**[link](https://github.com/gmum/multiplanenerf)**|
