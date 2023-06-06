@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000](http://arxiv.org/abs/2306.03000)|null|
+|**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741](http://arxiv.org/abs/2306.02741)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696](http://arxiv.org/abs/2306.00696)|**[link](https://github.com/r4dl/nerfinternals)**|
 |**2023-06-02**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547](http://arxiv.org/abs/2306.00547)|null|
@@ -96,6 +98,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
+|**2023-06-05**|**Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields**|Thomas Walker et.al.|[2306.02956](http://arxiv.org/abs/2306.02956)|null|
+|**2023-06-03**|**Weight-Aware Implicit Geometry Reconstruction with Curvature-Guided Sampling**|Lu Sang et.al.|[2306.02099](http://arxiv.org/abs/2306.02099)|null|
 |**2023-05-30**|**Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution**|Yixun Liang et.al.|[2305.18832](http://arxiv.org/abs/2305.18832)|null|
 |**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594](http://arxiv.org/abs/2305.05594)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan et.al.|[2305.00282](http://arxiv.org/abs/2305.00282)|null|
