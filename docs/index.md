@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-06**|**Towards Visual Foundational Models of Physical Scenes**|Chethan Parameshwara et.al.|[2306.03727](http://arxiv.org/abs/2306.03727)|null|
+|**2023-06-06**|**Human 3D Avatar Modeling with Implicit Neural Representation: A Brief Survey**|Mingyang Sun et.al.|[2306.03576](http://arxiv.org/abs/2306.03576)|null|
+|**2023-06-05**|**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2306.03207](http://arxiv.org/abs/2306.03207)|null|
 |**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000](http://arxiv.org/abs/2306.03000)|null|
 |**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741](http://arxiv.org/abs/2306.02741)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783](http://arxiv.org/abs/2306.00783)|**[link](https://github.com/billyxyb/fdnerf)**|
@@ -27,7 +30,7 @@ layout: default
 |**2023-06-06**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914](http://arxiv.org/abs/2305.16914)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411](http://arxiv.org/abs/2305.16411)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233](http://arxiv.org/abs/2305.16233)|null|
-|**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213](http://arxiv.org/abs/2305.16213)|**[link](https://github.com/thu-ml/prolificdreamer)**|
+|**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213](http://arxiv.org/abs/2305.16213)|**[link](https://github.com/threestudio-project/threestudio)**|
 |**2023-05-31**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
 |**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094](http://arxiv.org/abs/2305.15094)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831](http://arxiv.org/abs/2305.14831)|null|
