@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581](http://arxiv.org/abs/2306.07581)|null|
 |**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388](http://arxiv.org/abs/2306.06388)|null|
 |**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300](http://arxiv.org/abs/2306.06300)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093](http://arxiv.org/abs/2306.06093)|null|
@@ -108,6 +109,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632](http://arxiv.org/abs/2306.07632)|null|
+|**2023-06-12**|**Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering**|Snehal Jauhri et.al.|[2306.07392](http://arxiv.org/abs/2306.07392)|null|
 |**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988](http://arxiv.org/abs/2306.04988)|null|
 |**2023-06-09**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 |**2023-06-12**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
