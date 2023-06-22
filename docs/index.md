@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -116,7 +116,7 @@ layout: default
 |**2023-06-12**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
 |**2023-06-05**|**Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields**|Thomas Walker et.al.|[2306.02956](http://arxiv.org/abs/2306.02956)|null|
 |**2023-06-03**|**Weight-Aware Implicit Geometry Reconstruction with Curvature-Guided Sampling**|Lu Sang et.al.|[2306.02099](http://arxiv.org/abs/2306.02099)|null|
-|**2023-05-30**|**Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution**|Yixun Liang et.al.|[2305.18832](http://arxiv.org/abs/2305.18832)|null|
+|**2023-05-30**|**Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution**|Yixun Liang et.al.|[2305.18832](http://arxiv.org/abs/2305.18832)|**[link](https://github.com/yixunliang/retr)**|
 |**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594](http://arxiv.org/abs/2305.05594)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan et.al.|[2305.00282](http://arxiv.org/abs/2305.00282)|null|
 |**2023-04-20**|**NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering**|Yu-Tao Liu et.al.|[2304.10080](http://arxiv.org/abs/2304.10080)|null|

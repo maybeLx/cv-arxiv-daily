@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -108,7 +108,7 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
 
-<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
 
 ## Neural Surface
 
@@ -122,7 +122,7 @@
 |**2023-06-12**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
 |**2023-06-05**|**Explicit Neural Surfaces: Learning Continuous Geometry With Deformation Fields**|Thomas Walker et.al.|[2306.02956](http://arxiv.org/abs/2306.02956)|null|
 |**2023-06-03**|**Weight-Aware Implicit Geometry Reconstruction with Curvature-Guided Sampling**|Lu Sang et.al.|[2306.02099](http://arxiv.org/abs/2306.02099)|null|
-|**2023-05-30**|**Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution**|Yixun Liang et.al.|[2305.18832](http://arxiv.org/abs/2305.18832)|null|
+|**2023-05-30**|**Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution**|Yixun Liang et.al.|[2305.18832](http://arxiv.org/abs/2305.18832)|**[link](https://github.com/yixunliang/retr)**|
 |**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594](http://arxiv.org/abs/2305.05594)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-04-29**|**NSLF-OL: Online Learning of Neural Surface Light Fields alongside Real-time Incremental 3D Reconstruction**|Yijun Yuan et.al.|[2305.00282](http://arxiv.org/abs/2305.00282)|null|
 |**2023-04-20**|**NeUDF: Leaning Neural Unsigned Distance Fields with Volume Rendering**|Yu-Tao Liu et.al.|[2304.10080](http://arxiv.org/abs/2304.10080)|null|
@@ -146,7 +146,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
