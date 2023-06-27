@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422](http://arxiv.org/abs/2306.12422)|null|
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556](http://arxiv.org/abs/2306.11556)|null|
-|**2023-06-17**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350](http://arxiv.org/abs/2306.10350)|null|
+|**2023-06-24**|**MA-NeRF: Motion-Assisted Neural Radiance Fields for Face Synthesis from Sparse Images**|Weichen Zhang et.al.|[2306.10350](http://arxiv.org/abs/2306.10350)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-16**|**UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video**|Zhi-Hao Lin et.al.|[2306.09349](http://arxiv.org/abs/2306.09349)|null|
 |**2023-06-13**|**DORSal: Diffusion for Object-centric Representations of Scenes $\textit{et al.}$**|Allan Jabri et.al.|[2306.08068](http://arxiv.org/abs/2306.08068)|null|
@@ -112,7 +112,7 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 ## Neural Surface
 
@@ -120,7 +120,7 @@
 |---|---|---|---|---|
 |**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003](http://arxiv.org/abs/2306.10003)|null|
 |**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632](http://arxiv.org/abs/2306.07632)|null|
-|**2023-06-12**|**Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering**|Snehal Jauhri et.al.|[2306.07392](http://arxiv.org/abs/2306.07392)|null|
+|**2023-06-25**|**Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering**|Snehal Jauhri et.al.|[2306.07392](http://arxiv.org/abs/2306.07392)|null|
 |**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988](http://arxiv.org/abs/2306.04988)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 |**2023-06-12**|**Neuralangelo: High-Fidelity Neural Surface Reconstruction**|Zhaoshuo Li et.al.|[2306.03092](http://arxiv.org/abs/2306.03092)|null|
@@ -150,7 +150,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
