@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
-|**2023-06-30**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
+|**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
@@ -116,7 +116,7 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
 ## Neural Surface
 
@@ -155,7 +155,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
