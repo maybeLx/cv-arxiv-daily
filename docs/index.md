@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909](http://arxiv.org/abs/2307.12909)|null|
+|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718](http://arxiv.org/abs/2307.12718)|null|
+|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291](http://arxiv.org/abs/2307.12291)|null|
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526](http://arxiv.org/abs/2307.11526)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418](http://arxiv.org/abs/2307.11418)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335](http://arxiv.org/abs/2307.11335)|null|
@@ -130,7 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|null|
+|**2023-07-21**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
 |**2023-07-12**|**SC-NeuS: Consistent Neural Surface Reconstruction from Sparse and Noisy Views**|Shi-Sheng Huang et.al.|[2307.05892](http://arxiv.org/abs/2307.05892)|null|
 |**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|null|
 |**2023-06-16**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003](http://arxiv.org/abs/2306.10003)|null|
