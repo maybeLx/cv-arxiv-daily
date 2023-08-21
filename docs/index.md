@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-16**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
+|**2023-08-17**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530](http://arxiv.org/abs/2308.08530)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258](http://arxiv.org/abs/2308.08258)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118](http://arxiv.org/abs/2308.07118)|**[link](https://github.com/maftej/iisnerf)**|
 |**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
@@ -156,7 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-17**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
 |**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|null|
 |**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
 |**2023-08-07**|**Explicifying Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface**|Ruiqi Zhang et.al.|[2308.05112](http://arxiv.org/abs/2308.05112)|null|
