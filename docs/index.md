@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -185,7 +185,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-06**|**LightNeuS: Neural Surface Reconstruction in Endoscopy using Illumination Decline**|Víctor M. Batlle et.al.|[2309.02777](http://arxiv.org/abs/2309.02777)|null|
-|**2023-08-29**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
+|**2023-09-03**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
 |**2023-08-30**|**NSF: Neural Surface Fields for Human Modeling from Monocular Depth**|Yuxuan Xue et.al.|[2308.14847](http://arxiv.org/abs/2308.14847)|null|
 |**2023-08-26**|**Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation**|Guying Lin et.al.|[2308.13934](http://arxiv.org/abs/2308.13934)|null|
 |**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|null|
