@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.08
+## Updated on 2023.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -197,7 +197,7 @@ layout: default
 |**2023-08-14**|**Developability Approximation for Neural Implicits through Rank Minimization**|Pratheba Selvaraju et.al.|[2308.03900](http://arxiv.org/abs/2308.03900)|null|
 |**2023-09-04**|**EndoSurf: Neural Surface Reconstruction of Deformable Tissues with Stereo Endoscope Videos**|Ruyi Zha et.al.|[2307.11307](http://arxiv.org/abs/2307.11307)|**[link](https://github.com/ruyi-zha/endosurf)**|
 |**2023-07-12**|**SC-NeuS: Consistent Neural Surface Reconstruction from Sparse and Noisy Views**|Shi-Sheng Huang et.al.|[2307.05892](http://arxiv.org/abs/2307.05892)|null|
-|**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|null|
+|**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|**[link](https://github.com/One-2-3-45/One-2-3-45)**|
 |**2023-08-14**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003](http://arxiv.org/abs/2306.10003)|null|
 |**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632](http://arxiv.org/abs/2306.07632)|null|
 |**2023-06-25**|**Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering**|Snehal Jauhri et.al.|[2306.07392](http://arxiv.org/abs/2306.07392)|null|
