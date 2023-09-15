@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
+|**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752](http://arxiv.org/abs/2309.07752)|null|
+|**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668](http://arxiv.org/abs/2309.07668)|null|
 |**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125](http://arxiv.org/abs/2309.07125)|null|
 |**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802](http://arxiv.org/abs/2309.06802)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030](http://arxiv.org/abs/2309.06030)|null|
@@ -29,7 +32,7 @@
 |**2023-09-14**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955](http://arxiv.org/abs/2309.03955)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
-|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|**[link](https://github.com/BayesRays/BayesRays)**|
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
