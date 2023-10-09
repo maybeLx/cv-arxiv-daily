@@ -149,7 +149,7 @@
 |**2023-07-26**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|**[link](https://github.com/shawn615/FlipNeRF)**|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
-|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
+|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|**[link](https://github.com/iwuqing/polyner)**|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|**[link](https://github.com/orig333/Blended-NeRF)**|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
@@ -290,7 +290,7 @@
 |**2023-03-22**|**NLOS-NeuS: Non-line-of-sight Neural Implicit Surface**|Yuki Fujimura et.al.|[2303.12280](http://arxiv.org/abs/2303.12280)|null|
 |**2023-03-21**|**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**|Xiaoxu Meng et.al.|[2303.12012](http://arxiv.org/abs/2303.12012)|**[link](https://github.com/xmeng525/NeAT)**|
 |**2023-03-20**|**Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection**|Wenhang Ge et.al.|[2303.10840](http://arxiv.org/abs/2303.10840)|null|
-|**2023-03-15**|**RICO: Regularizing the Unobservable for Indoor Compositional Reconstruction**|Zizhang Li et.al.|[2303.08605](http://arxiv.org/abs/2303.08605)|null|
+|**2023-03-15**|**RICO: Regularizing the Unobservable for Indoor Compositional Reconstruction**|Zizhang Li et.al.|[2303.08605](http://arxiv.org/abs/2303.08605)|**[link](https://github.com/kyleleey/rico)**|
 |**2023-03-27**|**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**|Anchit Gupta et.al.|[2303.05371](http://arxiv.org/abs/2303.05371)|null|
 |**2023-01-26**|**Robust One-Class Classification with Signed Distance Function using 1-Lipschitz Neural Networks**|Louis Bethune et.al.|[2303.01978](http://arxiv.org/abs/2303.01978)|**[link](https://github.com/algue-rythme/oneclassmetriclearning)**|
 |**2023-03-01**|**P $^2$ SDF for Neural Indoor Scene Reconstruction**|Jing Li et.al.|[2303.00236](http://arxiv.org/abs/2303.00236)|null|
