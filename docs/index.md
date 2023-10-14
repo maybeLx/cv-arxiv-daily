@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
@@ -253,6 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-09**|**Geometry-Guided Ray Augmentation for Neural Surface Reconstruction with Sparse Views**|Jiawei Yao et.al.|[2310.05483](http://arxiv.org/abs/2310.05483)|null|
