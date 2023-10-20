@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -265,7 +265,7 @@ layout: default
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
-|**2023-10-16**|**Geometry-Guided Ray Augmentation for Neural Surface Reconstruction with Sparse Views**|Jiawei Yao et.al.|[2310.05483](http://arxiv.org/abs/2310.05483)|null|
+|**2023-10-18**|**Geometry-Guided Ray Augmentation for Neural Surface Reconstruction with Sparse Views**|Jiawei Yao et.al.|[2310.05483](http://arxiv.org/abs/2310.05483)|null|
 |**2023-10-09**|**GradientSurf: Gradient-Domain Neural Surface Reconstruction from RGB Video**|Crane He Chen et.al.|[2310.05406](http://arxiv.org/abs/2310.05406)|null|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
 |**2023-09-19**|**360 $^\circ$ Reconstruction From a Single Image Using Space Carved Outpainting**|Nuri Ryu et.al.|[2309.10279](http://arxiv.org/abs/2309.10279)|null|
