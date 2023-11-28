@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
+|**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803](http://arxiv.org/abs/2311.15803)|null|
+|**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510](http://arxiv.org/abs/2311.15510)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
+|**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
+|**2023-11-26**|**Obj-NeRF: Extract Object NeRFs from Multi-view Images**|Zhiyi Li et.al.|[2311.15291](http://arxiv.org/abs/2311.15291)|null|
+|**2023-11-26**|**NeuRAD: Neural Rendering for Autonomous Driving**|Adam Tonderski et.al.|[2311.15260](http://arxiv.org/abs/2311.15260)|**[link](https://github.com/georghess/neurad)**|
 |**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603](http://arxiv.org/abs/2311.14603)|null|
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521](http://arxiv.org/abs/2311.14521)|null|
 |**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208](http://arxiv.org/abs/2311.14208)|null|
@@ -25,7 +31,7 @@
 |**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750](http://arxiv.org/abs/2311.13750)|null|
 |**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681](http://arxiv.org/abs/2311.13681)|null|
 |**2023-11-22**|**Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**|Kai Yu et.al.|[2311.13617](http://arxiv.org/abs/2311.13617)|null|
-|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
+|**2023-11-27**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099](http://arxiv.org/abs/2311.13099)|null|
@@ -332,7 +338,7 @@
 |---|---|---|---|---|
 |**2023-11-20**|**NePF: Neural Photon Field for Single-Stage Inverse Rendering**|Tuen-Yue Tsui et.al.|[2311.11555](http://arxiv.org/abs/2311.11555)|null|
 |**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159](http://arxiv.org/abs/2311.08159)|null|
-|**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
+|**2023-11-25**|**PG-NeuS: Robust and Efficient Point Guidance for Multi-View Neural Surface Reconstruction**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-18**|**Geometry-Guided Ray Augmentation for Neural Surface Reconstruction with Sparse Views**|Jiawei Yao et.al.|[2310.05483](http://arxiv.org/abs/2310.05483)|null|
