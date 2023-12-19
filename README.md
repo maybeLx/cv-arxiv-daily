@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-16**|**Learning Dense Correspondence for NeRF-Based Face Reenactment**|Songlin Yang et.al.|[2312.10422](http://arxiv.org/abs/2312.10422)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
@@ -433,7 +435,7 @@
 |**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159](http://arxiv.org/abs/2311.08159)|null|
 |**2023-11-25**|**PG-NeuS: Robust and Efficient Point Guidance for Multi-View Neural Surface Reconstruction**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
-|**2023-10-09**|**Bi-directional Deformation for Parameterization of Neural Implicit Surfaces**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
+|**2023-12-18**|**Parameterization-driven Neural Implicit Surfaces Editing**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-18**|**Geometry-Guided Ray Augmentation for Neural Surface Reconstruction with Sparse Views**|Jiawei Yao et.al.|[2310.05483](http://arxiv.org/abs/2310.05483)|null|
 |**2023-10-09**|**GradientSurf: Gradient-Domain Neural Surface Reconstruction from RGB Video**|Crane He Chen et.al.|[2310.05406](http://arxiv.org/abs/2310.05406)|null|
 |**2023-09-19**|**Anti-Aliased Neural Implicit Surfaces with Encoding Level of Detail**|Yiyu Zhuang et.al.|[2309.10336](http://arxiv.org/abs/2309.10336)|null|
