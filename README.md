@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915](http://arxiv.org/abs/2312.14915)|null|
+|**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664](http://arxiv.org/abs/2312.14664)|null|
+|**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239](http://arxiv.org/abs/2312.14239)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154](http://arxiv.org/abs/2312.14154)|null|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
 |**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832](http://arxiv.org/abs/2312.13832)|null|
-|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/abs/2312.13729)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-22**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729](http://arxiv.org/abs/2312.13729)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2023-12-21**|**DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2312.13528](http://arxiv.org/abs/2312.13528)|null|
 |**2023-12-21**|**Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects**|David Nakath et.al.|[2312.13494](http://arxiv.org/abs/2312.13494)|null|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
@@ -441,13 +444,13 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 ## Neural Surface
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-21**|**NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views**|Han Huang et.al.|[2312.13977](http://arxiv.org/abs/2312.13977)|null|
+|**2023-12-22**|**NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views**|Han Huang et.al.|[2312.13977](http://arxiv.org/abs/2312.13977)|null|
 |**2023-12-18**|**PR-NeuS: A Prior-based Residual Learning Paradigm for Fast Multi-view Neural Surface Reconstruction**|Jianyao Xu et.al.|[2312.11577](http://arxiv.org/abs/2312.11577)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803](http://arxiv.org/abs/2312.04803)|null|
 |**2023-12-01**|**NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance**|Hanlin Chen et.al.|[2312.00846](http://arxiv.org/abs/2312.00846)|null|
@@ -508,7 +511,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
