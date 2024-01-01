@@ -475,7 +475,7 @@ layout: default
 |**2023-09-03**|**DebSDF: Delving into the Details and Bias of Neural Indoor Scene Reconstruction**|Yuting Xiao et.al.|[2308.15536](http://arxiv.org/abs/2308.15536)|null|
 |**2023-10-27**|**NSF: Neural Surface Fields for Human Modeling from Monocular Depth**|Yuxuan Xue et.al.|[2308.14847](http://arxiv.org/abs/2308.14847)|null|
 |**2023-08-26**|**Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation**|Guying Lin et.al.|[2308.13934](http://arxiv.org/abs/2308.13934)|null|
-|**2023-12-14**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|null|
+|**2023-12-14**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|**[link](https://github.com/thu-lyj-lab/o2-recon)**|
 |**2023-08-17**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
 |**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032](http://arxiv.org/abs/2308.07032)|**[link](https://github.com/madaoer/s3im_nerf)**|
 |**2023-08-14**|**Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**|Licheng Zhong et.al.|[2308.06962](http://arxiv.org/abs/2308.06962)|**[link](https://github.com/Colmar-zlicheng/Color-NeuS)**|
@@ -500,13 +500,13 @@ layout: default
 |**2023-04-06**|**Dynamic Point Fields**|Sergey Prokudin et.al.|[2304.02626](http://arxiv.org/abs/2304.02626)|null|
 |**2023-03-30**|**S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit Surfaces**|Haoyu Wu et.al.|[2303.17712](http://arxiv.org/abs/2303.17712)|null|
 |**2023-03-30**|**NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**|Jingyang Zhang et.al.|[2303.17147](http://arxiv.org/abs/2303.17147)|null|
-|**2023-03-30**|**Depth-NeuS: Neural Implicit Surfaces Learning for Multi-view Reconstruction Based on Depth Information Optimization**|Hanqi Jiang et.al.|[2303.17088](http://arxiv.org/abs/2303.17088)|null|
+|**2023-03-30**|**Depth-NeuS: Neural Implicit Surfaces Learning for Multi-view Reconstruction Based on Depth Information Optimization**|Hanqi Jiang et.al.|[2303.17088](http://arxiv.org/abs/2303.17088)|**[link](https://github.com/hq0709/Depth-NeuS)**|
 |**2023-03-29**|**Multi-View Azimuth Stereo via Tangent Space Consistency**|Xu Cao et.al.|[2303.16447](http://arxiv.org/abs/2303.16447)|**[link](https://github.com/xucao-42/mvas)**|
 |**2023-03-27**|**TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering**|Jaehoon Choi et.al.|[2303.15060](http://arxiv.org/abs/2303.15060)|null|
 |**2023-03-23**|**ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting**|Ruofan Liang et.al.|[2303.13022](http://arxiv.org/abs/2303.13022)|**[link](https://github.com/nexuslrf/ENVIDR)**|
 |**2023-03-22**|**NLOS-NeuS: Non-line-of-sight Neural Implicit Surface**|Yuki Fujimura et.al.|[2303.12280](http://arxiv.org/abs/2303.12280)|null|
 |**2023-03-21**|**NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images**|Xiaoxu Meng et.al.|[2303.12012](http://arxiv.org/abs/2303.12012)|**[link](https://github.com/xmeng525/NeAT)**|
-|**2023-03-20**|**Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection**|Wenhang Ge et.al.|[2303.10840](http://arxiv.org/abs/2303.10840)|null|
+|**2023-03-20**|**Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection**|Wenhang Ge et.al.|[2303.10840](http://arxiv.org/abs/2303.10840)|**[link](https://github.com/EnVision-Research/Ref-NeuS)**|
 |**2023-03-15**|**RICO: Regularizing the Unobservable for Indoor Compositional Reconstruction**|Zizhang Li et.al.|[2303.08605](http://arxiv.org/abs/2303.08605)|**[link](https://github.com/kyleleey/rico)**|
 |**2023-03-27**|**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**|Anchit Gupta et.al.|[2303.05371](http://arxiv.org/abs/2303.05371)|null|
 |**2023-01-26**|**Robust One-Class Classification with Signed Distance Function using 1-Lipschitz Neural Networks**|Louis Bethune et.al.|[2303.01978](http://arxiv.org/abs/2303.01978)|**[link](https://github.com/algue-rythme/oneclassmetriclearning)**|
