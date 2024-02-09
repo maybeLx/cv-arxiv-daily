@@ -516,6 +516,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object**|Hanzhi Chen et.al.|[2402.05644](http://arxiv.org/abs/2402.05644)|null|
 |**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
 |**2024-01-23**|**PSDF: Prior-Driven Neural Implicit Surface Learning for Multi-view Reconstruction**|Wanjuan Su et.al.|[2401.12751](http://arxiv.org/abs/2401.12751)|null|
