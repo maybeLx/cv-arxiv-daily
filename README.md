@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
 |**2024-03-08**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115](http://arxiv.org/abs/2403.04115)|null|
@@ -563,6 +564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Data Sets**|Youngju Na et.al.|[2403.05086](http://arxiv.org/abs/2403.05086)|**[link](https://github.com/youngju-na/uforecon)**|
 |**2024-02-16**|**Polyhedral Complex Derivation from Piecewise Trilinear Networks**|Jin-Hwa Kim et.al.|[2402.10403](http://arxiv.org/abs/2402.10403)|null|
 |**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826](http://arxiv.org/abs/2402.06826)|null|
 |**2024-02-22**|**FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object**|Hanzhi Chen et.al.|[2402.05644](http://arxiv.org/abs/2402.05644)|null|
