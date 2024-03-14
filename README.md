@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Gaussian Splatting in Style**|Abhishek Saroha et.al.|[2403.08498](http://arxiv.org/abs/2403.08498)|null|
+|**2024-03-13**|**StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields**|Hongbin Xu et.al.|[2403.08310](http://arxiv.org/abs/2403.08310)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156](http://arxiv.org/abs/2403.08156)|null|
+|**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125](http://arxiv.org/abs/2403.08125)|null|
 |**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547](http://arxiv.org/abs/2403.07547)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505](http://arxiv.org/abs/2403.06505)|null|
@@ -590,7 +594,7 @@
 |**2023-11-20**|**NePF: Neural Photon Field for Single-Stage Inverse Rendering**|Tuen-Yue Tsui et.al.|[2311.11555](http://arxiv.org/abs/2311.11555)|null|
 |**2023-11-14**|**DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid**|Mirgahney Mohamed et.al.|[2311.08159](http://arxiv.org/abs/2311.08159)|null|
 |**2023-11-25**|**PG-NeuS: Robust and Efficient Point Guidance for Multi-View Neural Surface Reconstruction**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
-|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2024-03-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-12-18**|**Parameterization-driven Neural Implicit Surfaces Editing**|Baixin Xu et.al.|[2310.05524](http://arxiv.org/abs/2310.05524)|null|
 |**2023-10-18**|**Geometry-Guided Ray Augmentation for Neural Surface Reconstruction with Sparse Views**|Jiawei Yao et.al.|[2310.05483](http://arxiv.org/abs/2310.05483)|null|
 |**2023-10-09**|**GradientSurf: Gradient-Domain Neural Surface Reconstruction from RGB Video**|Crane He Chen et.al.|[2310.05406](http://arxiv.org/abs/2310.05406)|null|
