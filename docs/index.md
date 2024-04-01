@@ -344,7 +344,7 @@ layout: default
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
-|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|null|
+|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|**[link](https://github.com/irmvlab/sni-slam)**|
 |**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|**[link](https://github.com/caiyuanhao1998/sax-nerf)**|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
 |**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
@@ -621,7 +621,7 @@ layout: default
 |**2023-04-25**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842](http://arxiv.org/abs/2304.11842)|null|
 |**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470](http://arxiv.org/abs/2304.11470)|null|
 |**2023-04-22**|**Dehazing-NeRF: Neural Radiance Fields from Hazy Images**|Tian Li et.al.|[2304.11448](http://arxiv.org/abs/2304.11448)|null|
-|**2023-04-22**|**NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation**|Baao Xie et.al.|[2304.11342](http://arxiv.org/abs/2304.11342)|null|
+|**2023-04-22**|**NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation**|Baao Xie et.al.|[2304.11342](http://arxiv.org/abs/2304.11342)|**[link](https://github.com/arlo0o/navinerf)**|
 |**2023-04-21**|**AutoNeRF: Training Implicit Scene Representations with Autonomous Agents**|Pierre Marza et.al.|[2304.11241](http://arxiv.org/abs/2304.11241)|**[link](https://github.com/PierreMarza/autonerf)**|
 |**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780](http://arxiv.org/abs/2304.10780)|null|
 |**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664](http://arxiv.org/abs/2304.10664)|null|
@@ -685,7 +685,7 @@ layout: default
 |**2023-07-12**|**SC-NeuS: Consistent Neural Surface Reconstruction from Sparse and Noisy Views**|Shi-Sheng Huang et.al.|[2307.05892](http://arxiv.org/abs/2307.05892)|null|
 |**2023-06-29**|**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**|Minghua Liu et.al.|[2306.16928](http://arxiv.org/abs/2306.16928)|**[link](https://github.com/One-2-3-45/One-2-3-45)**|
 |**2023-08-14**|**C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction**|Luoyuan Xu et.al.|[2306.10003](http://arxiv.org/abs/2306.10003)|null|
-|**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632](http://arxiv.org/abs/2306.07632)|null|
+|**2023-06-13**|**NeuS-PIR: Learning Relightable Neural Surface using Pre-Integrated Rendering**|Shi Mao et.al.|[2306.07632](http://arxiv.org/abs/2306.07632)|**[link](https://github.com/sheldonmao/neuspir)**|
 |**2023-06-25**|**Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering**|Snehal Jauhri et.al.|[2306.07392](http://arxiv.org/abs/2306.07392)|null|
 |**2023-06-08**|**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**|Jianfei Guo et.al.|[2306.04988](http://arxiv.org/abs/2306.04988)|**[link](https://github.com/pjlab-ADG/neuralsim)**|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
