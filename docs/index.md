@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -751,7 +751,7 @@ layout: default
 |**2024-01-23**|**PSDF: Prior-Driven Neural Implicit Surface Learning for Multi-view Reconstruction**|Wanjuan Su et.al.|[2401.12751](http://arxiv.org/abs/2401.12751)|null|
 |**2024-01-21**|**Multi-View Neural 3D Reconstruction of Micro-/Nanostructures with Atomic Force Microscopy**|Shuo Chen et.al.|[2401.11541](http://arxiv.org/abs/2401.11541)|**[link](https://github.com/zju3dv/mvn-afm)**|
 |**2024-04-07**|**3QFP: Efficient neural implicit surface reconstruction using Tri-Quadtrees and Fourier feature Positional encoding**|Shuo Sun et.al.|[2401.07164](http://arxiv.org/abs/2401.07164)|**[link](https://github.com/ljjtyjr/3qfp)**|
-|**2024-01-13**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
+|**2024-05-02**|**Neural Implicit Surface Reconstruction of Freehand 3D Ultrasound Volume with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
 |**2023-12-23**|**NoPose-NeuS: Jointly Optimizing Camera Poses with Neural Implicit Surfaces for Multi-view Reconstruction**|Mohamed Shawky Sabae et.al.|[2312.15238](http://arxiv.org/abs/2312.15238)|null|
 |**2023-12-22**|**NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views**|Han Huang et.al.|[2312.13977](http://arxiv.org/abs/2312.13977)|null|
 |**2023-12-18**|**PR-NeuS: A Prior-based Residual Learning Paradigm for Fast Multi-view Neural Surface Reconstruction**|Jianyao Xu et.al.|[2312.11577](http://arxiv.org/abs/2312.11577)|null|
