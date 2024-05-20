@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -759,7 +759,7 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|**[link](https://github.com/vlar-group/nvfi)**|
 
-<p align=right>(<a href=#Updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 ## Neural Surface
 
@@ -777,7 +777,7 @@
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
 |**2024-03-19**|**Vox-Fusion++: Voxel-based Neural Implicit Dense Tracking and Mapping with Multi-maps**|Hongjia Zhai et.al.|[2403.12536](http://arxiv.org/abs/2403.12536)|null|
 |**2024-04-05**|**SCILLA: SurfaCe Implicit Learning for Large Urban Area, a volumetric hybrid solution**|Hala Djeghim et.al.|[2403.10344](http://arxiv.org/abs/2403.10344)|null|
-|**2024-03-11**|**UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Sets**|Youngju Na et.al.|[2403.05086](http://arxiv.org/abs/2403.05086)|**[link](https://github.com/youngju-na/uforecon)**|
+|**2024-05-17**|**UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Sets**|Youngju Na et.al.|[2403.05086](http://arxiv.org/abs/2403.05086)|**[link](https://github.com/youngju-na/uforecon)**|
 |**2024-02-16**|**Polyhedral Complex Derivation from Piecewise Trilinear Networks**|Jin-Hwa Kim et.al.|[2402.10403](http://arxiv.org/abs/2402.10403)|null|
 |**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826](http://arxiv.org/abs/2402.06826)|null|
 |**2024-02-22**|**FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object**|Hanzhi Chen et.al.|[2402.05644](http://arxiv.org/abs/2402.05644)|null|
@@ -850,7 +850,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
