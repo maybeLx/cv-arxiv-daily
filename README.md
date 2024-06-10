@@ -51,7 +51,7 @@
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
 |**2024-05-29**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829](http://arxiv.org/abs/2405.16829)|null|
 |**2024-06-02**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517](http://arxiv.org/abs/2405.16517)|null|
-|**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227](http://arxiv.org/abs/2405.15227)|null|
+|**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227](http://arxiv.org/abs/2405.15227)|**[link](https://github.com/Stanford-NavLab/nerfstudio)**|
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125](http://arxiv.org/abs/2405.15125)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
 |**2024-05-24**|**GS-Hider: Hiding Messages into 3D Gaussian Splatting**|Xuanyu Zhang et.al.|[2405.15118](http://arxiv.org/abs/2405.15118)|null|
 |**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
@@ -177,7 +177,7 @@
 |**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987](http://arxiv.org/abs/2404.00987)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-04-02**|**DPA-Net: Structured 3D Abstraction from Sparse Views via Differentiable Primitive Assembly**|Fenggen Yu et.al.|[2404.00875](http://arxiv.org/abs/2404.00875)|null|
-|**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874](http://arxiv.org/abs/2404.00874)|null|
+|**2024-04-01**|**DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**|Jie Long Lee et.al.|[2404.00874](http://arxiv.org/abs/2404.00874)|**[link](https://github.com/leejielong/disr-nerf)**|
 |**2024-03-31**|**An Active Perception Game for Robust Autonomous Exploration**|Siming He et.al.|[2404.00769](http://arxiv.org/abs/2404.00769)|null|
 |**2024-03-31**|**Neural Radiance Field-based Visual Rendering: A Comprehensive Review**|Mingyuan Yao et.al.|[2404.00714](http://arxiv.org/abs/2404.00714)|null|
 |**2024-03-31**|**Knowledge NeRF: Few-shot Novel View Synthesis for Dynamic Articulated Objects**|Wenxiao Cai et.al.|[2404.00674](http://arxiv.org/abs/2404.00674)|**[link](https://github.com/russrobin/knowledge_nerf)**|
