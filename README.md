@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133](http://arxiv.org/abs/2406.06133)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649](http://arxiv.org/abs/2406.05649)|null|
 |**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961](http://arxiv.org/abs/2406.04961)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960](http://arxiv.org/abs/2406.04960)|**[link](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960](http://arxiv.org/abs/2406.04960)|**[link](https://github.com/paoyw/Stylized-NeRF-with-AdaIN)**|
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155](http://arxiv.org/abs/2406.04155)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101](http://arxiv.org/abs/2406.04101)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723](http://arxiv.org/abs/2406.03723)|null|
@@ -821,7 +821,7 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|**[link](https://github.com/vlar-group/nvfi)**|
 
-<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
 
 ## Neural Surface
 
@@ -919,7 +919,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
