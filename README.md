@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
@@ -926,6 +927,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**DiffCD: A Symmetric Differentiable Chamfer Distance for Neural Implicit Surface Fitting**|Linus Härenstam-Nielsen et.al.|[2407.17058](http://arxiv.org/abs/2407.17058)|null|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667](http://arxiv.org/abs/2407.12667)|**[link](https://github.com/iris-cyy/sg-nerf)**|
 |**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661](http://arxiv.org/abs/2407.12661)|**[link](https://github.com/muliphein/infonorm)**|
 |**2024-07-16**|**TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs**|Chenfan Xu et.al.|[2407.11419](http://arxiv.org/abs/2407.11419)|**[link](https://github.com/shanghaitech-impact/teethdreamer)**|
