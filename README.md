@@ -1135,6 +1135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
 |**2024-11-27**|**Neural Surface Priors for Editable Gaussian Splatting**|Jakub Szymkowiak et.al.|[2411.18311](http://arxiv.org/abs/2411.18311)|**[link](https://github.com/wjakubowska/neuralsurfacepriors)**|
 |**2024-11-25**|**Geometry Distributions**|Biao Zhang et.al.|[2411.16076](http://arxiv.org/abs/2411.16076)|null|
 |**2024-11-28**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
