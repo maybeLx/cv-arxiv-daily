@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708](http://arxiv.org/abs/2502.05708)|null|
+|**2025-02-05**|**VistaFlow: Photorealistic Volumetric Reconstruction with Dynamic Resolution Management via Q-Learning**|Jayram Palamadai et.al.|[2502.05222](http://arxiv.org/abs/2502.05222)|null|
 |**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843](http://arxiv.org/abs/2502.04843)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-04**|**MaintaAvatar: A Maintainable Avatar Based on Neural Radiance Fields by Continual Learning**|Shengbo Gu et.al.|[2502.02372](http://arxiv.org/abs/2502.02372)|null|
@@ -1212,7 +1214,7 @@
 |**2024-12-13**|**ProbeSDF: Light Field Probes for Neural Surface Reconstruction**|Briac Toussaint et.al.|[2412.10084](http://arxiv.org/abs/2412.10084)|null|
 |**2024-12-06**|**Spatially-Adaptive Hash Encodings For Neural Surface Reconstruction**|Thomas Walker et.al.|[2412.05179](http://arxiv.org/abs/2412.05179)|null|
 |**2024-12-23**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|**[link](https://github.com/benzlxs/dgns)**|
-|**2024-11-27**|**Neural Surface Priors for Editable Gaussian Splatting**|Jakub Szymkowiak et.al.|[2411.18311](http://arxiv.org/abs/2411.18311)|**[link](https://github.com/wjakubowska/neuralsurfacepriors)**|
+|**2025-02-07**|**Neural Surface Priors for Editable Gaussian Splatting**|Jakub Szymkowiak et.al.|[2411.18311](http://arxiv.org/abs/2411.18311)|**[link](https://github.com/wjakubowska/neuralsurfacepriors)**|
 |**2024-11-25**|**Geometry Distributions**|Biao Zhang et.al.|[2411.16076](http://arxiv.org/abs/2411.16076)|null|
 |**2024-12-20**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
 |**2024-11-20**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620](http://arxiv.org/abs/2411.13620)|null|
