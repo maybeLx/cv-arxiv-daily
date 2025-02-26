@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
 |**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351](http://arxiv.org/abs/2502.16351)|null|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
 |**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
@@ -1215,7 +1215,7 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|**[link](https://github.com/vlar-group/nvfi)**|
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## Neural Surface
 
@@ -1354,7 +1354,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
