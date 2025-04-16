@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -1308,7 +1308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-14**|**PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction**|Mingzhi Pei et.al.|[2504.08410](http://arxiv.org/abs/2504.08410)|null|
+|**2025-04-14**|**PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction**|Mingzhi Pei et.al.|[2504.08410](http://arxiv.org/abs/2504.08410)|**[link](https://github.com/pmz-enterprise/pmni)**|
 |**2025-03-20**|**OffsetOPT: Explicit Surface Reconstruction without Normals**|Huan Lei et.al.|[2503.15763](http://arxiv.org/abs/2503.15763)|null|
 |**2025-03-16**|**TopoGaussian: Inferring Internal Topology Structures from Visual Clues**|Xiaoyu Xiong et.al.|[2503.12343](http://arxiv.org/abs/2503.12343)|null|
 |**2025-03-11**|**Acoustic Neural 3D Reconstruction Under Pose Drift**|Tianxiang Lin et.al.|[2503.08930](http://arxiv.org/abs/2503.08930)|null|
