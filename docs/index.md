@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
@@ -1346,6 +1348,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits**|Nail Ibrahimli et.al.|[2505.10827](http://arxiv.org/abs/2505.10827)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-06**|**3D Surface Reconstruction with Enhanced High-Frequency Details**|Shikun Zhang et.al.|[2505.03362](http://arxiv.org/abs/2505.03362)|null|
 |**2025-04-28**|**FreBIS: Frequency-Based Stratification for Neural Implicit Surface Representations**|Naoko Sawada et.al.|[2504.20222](http://arxiv.org/abs/2504.20222)|null|
