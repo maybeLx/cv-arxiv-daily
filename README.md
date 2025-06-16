@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1377,14 +1377,14 @@
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075](http://arxiv.org/abs/2304.10075)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050](http://arxiv.org/abs/2304.10050)|**[link](https://github.com/vlar-group/nvfi)**|
 
-<p align=right>(<a href=#Updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 
 ## Neural Surface
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
-|**2025-06-05**|**Uniform Sampling of Surfaces by Casting Rays**|Selena Ling et.al.|[2506.05268](http://arxiv.org/abs/2506.05268)|null|
+|**2025-06-13**|**Uniform Sampling of Surfaces by Casting Rays**|Selena Ling et.al.|[2506.05268](http://arxiv.org/abs/2506.05268)|null|
 |**2025-06-03**|**VolTex: Food Volume Estimation using Text-Guided Segmentation and Neural Surface Reconstruction**|Ahmad AlMughrabi et.al.|[2506.02895](http://arxiv.org/abs/2506.02895)|**[link](https://github.com/gcvcg/voltex)**|
 |**2025-05-16**|**NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits**|Nail Ibrahimli et.al.|[2505.10827](http://arxiv.org/abs/2505.10827)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
@@ -1532,7 +1532,7 @@
 |**2023-02-14**|**HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces**|Erich Liang et.al.|[2302.06793](http://arxiv.org/abs/2302.06793)|null|
 |**2023-04-11**|**OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation**|Tong Wu et.al.|[2301.07525](http://arxiv.org/abs/2301.07525)|null|
 
-<p align=right>(<a href=#Updated-on-20250615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
